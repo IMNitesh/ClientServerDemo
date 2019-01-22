@@ -1,0 +1,11 @@
+c:\users\developer\source\repos\Server\Server\bin\Debug\netcoreapp2.1\Server.deps.json
+c:\users\developer\source\repos\Server\Server\bin\Debug\netcoreapp2.1\Server.runtimeconfig.json
+c:\users\developer\source\repos\Server\Server\bin\Debug\netcoreapp2.1\Server.runtimeconfig.dev.json
+c:\users\developer\source\repos\Server\Server\bin\Debug\netcoreapp2.1\Server.dll
+c:\users\developer\source\repos\Server\Server\bin\Debug\netcoreapp2.1\Server.pdb
+c:\users\developer\source\repos\Server\Server\obj\Debug\netcoreapp2.1\Server.csprojResolveAssemblyReference.cache
+c:\users\developer\source\repos\Server\Server\obj\Debug\netcoreapp2.1\Server.csproj.CoreCompileInputs.cache
+c:\users\developer\source\repos\Server\Server\obj\Debug\netcoreapp2.1\Server.AssemblyInfoInputs.cache
+c:\users\developer\source\repos\Server\Server\obj\Debug\netcoreapp2.1\Server.AssemblyInfo.cs
+c:\users\developer\source\repos\Server\Server\obj\Debug\netcoreapp2.1\Server.dll
+c:\users\developer\source\repos\Server\Server\obj\Debug\netcoreapp2.1\Server.pdb
